@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>admin &#8211; Altostratus Desafío</title>
+	<title>admin &#8211; Desafio Altostratus</title>
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 16:48:16 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 21:21:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 					<comments>/2024/04/17/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 16:48:16 +0000</pubDate>
+		<pubDate>Wed, 17 Apr 2024 21:21:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
